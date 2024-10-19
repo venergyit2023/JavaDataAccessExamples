@@ -1,0 +1,1 @@
+Person{name='Vladan Ulardzic', age=25, pid='1234AA'}
