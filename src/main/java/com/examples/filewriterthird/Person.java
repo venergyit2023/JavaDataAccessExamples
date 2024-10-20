@@ -1,6 +1,7 @@
-package src;
+package com.examples.filewriterthird;
 
 public class Person {
+
     private String name;
     private int age;
     private String pid;
@@ -37,10 +38,6 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                ", pid='" + pid + '\'' +
-                '}';
+        return getName() + ";" + getAge() + ";" + getPid();
     }
 }
