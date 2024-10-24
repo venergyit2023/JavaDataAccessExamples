@@ -14,3 +14,7 @@ Second example: printing data (ref example Person) with try-catch block.
 
 Third example: printing data (not ref Person) in certain subfolder with try-catch block.
 
+### Example 4
+
+Fourth example: printing data (Person) to .txt file (advanced example).
+
