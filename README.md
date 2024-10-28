@@ -17,4 +17,5 @@ Third example: printing data (not ref Person) in certain subfolder with try-catc
 ### Example 4
 
 Fourth example: printing data (Person) to .txt file (advanced example).
+Fourth example: reading data (Person) from person.txt file (advanced example)
 
