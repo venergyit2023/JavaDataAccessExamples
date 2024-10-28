@@ -51,6 +51,13 @@ public class Person {
         this.age = age;
     }
 
-
-
+    @Override
+    public String toString() {
+        return "Person{" +
+                "SocialSecurityNumber='" + SocialSecurityNumber + '\'' +
+                ", name='" + name + '\'' +
+                ", surname='" + surname + '\'' +
+                ", age=" + age +
+                '}';
+    }
 }

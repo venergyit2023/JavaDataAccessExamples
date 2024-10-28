@@ -16,15 +16,17 @@ public class Main {
         Person person3 = new Person("012345674", "Milan", "Djorjevic",23);
         Person person4 = new Person("012345676", "Goran", "Bregovic",33);
         Person person5 = new Person("012345670", "Zarko", "Zaric",18);
-        Person person6 = new Person("012345670", "Zarko", "Zaric",28);
-        Person person7 = new Person("012345670", "Zarko", "Zaric",14);
+        Person person6 = new Person("012345650", "Zarko", "Zaric",28);
+        Person person7 = new Person("012345120", "Zarko", "Zaric",14);
 
         List<Person> personList = List.of(person, person2, person3, person4, person5);
 
         PersonDao personDao = new FilePersonDao();
-        personDao.writeElements(personList);
 
+        // write to file
+        // personDao.writeElements(personList);
 
+        personDao.readElements().forEach(System.out::println);
 
 
 
