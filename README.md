@@ -22,5 +22,10 @@ Fourth example: reading data (Person) from person.txt file (advanced example)
 ### Example 5
 
 Package: filereaderfirst
-In first example we created file myPerson.txt . In this example we are reading data from file myPerson.txt . 
+In first example we created file myPerson.txt . In this example we are reading data from file myPerson.txt .
+
+### Example 6
+
+Package: fileinputstream
+reading BYTES from file input.txt
 
