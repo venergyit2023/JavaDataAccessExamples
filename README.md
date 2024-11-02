@@ -27,5 +27,5 @@ In first example we created file myPerson.txt . In this example we are reading d
 ### Example 6
 
 Package: fileinputstream
-reading BYTES from file input.txt
+reading BYTES from file input.txt and try with MULTIPLE catch
 
