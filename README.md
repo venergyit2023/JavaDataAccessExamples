@@ -54,3 +54,9 @@ We have "input.txt" created by State Tax Sallary Department where are certain co
 - reading data from database and process "business logic" and
 - write data to "output.txt" in order to send data via State Tax Sallary Department Web app.
 
+### Example 8
+
+Package: filereadersecond
+Reading data FROM FILE character by character AND PARSING
+
+
