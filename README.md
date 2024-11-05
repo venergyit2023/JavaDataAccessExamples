@@ -59,4 +59,9 @@ We have "input.txt" created by State Tax Sallary Department where are certain co
 Package: filereadersecond
 Reading data FROM FILE character by character AND PARSING
 
+### Example 9
+
+Package: mongodbfirst
+Java to MongoDB
+
 
